@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.801);
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
